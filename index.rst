@@ -11,8 +11,8 @@ Welcome to Creditft's documentation!
    :caption: Contents:
 
 
-   test/test.rst
-   test/i4t.md
+   ./test/test.rst
+   ./test/i4t.md
 
 
 
