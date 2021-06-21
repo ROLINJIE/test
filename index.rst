@@ -13,6 +13,7 @@ Welcome to Creditft's documentation!
 
    ./test/test.rst
    ./test/i4t.md
+   ./test/daima.md
 
 
 
